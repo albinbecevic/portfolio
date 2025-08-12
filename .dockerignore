@@ -1,0 +1,22 @@
+
+# Environment files
+.env
+.env.*
+
+# Node.js dependencies
+node_modules
+
+# Logs
+*.log
+
+# Java build output
+target
+
+# Frontend build output
+dist
+
+# Git and editor configs
+.git
+.gitignore
+.vscode
+.idea
